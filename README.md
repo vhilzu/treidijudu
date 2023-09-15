@@ -1,0 +1,1 @@
+Dem taxes and commissions in futures trading, eh? How to know if making net profit, huh? Apart from creating a corporation to deduct taxes and commission as "business expenses", here's a calculator to keep track of the money you're not deducting.
