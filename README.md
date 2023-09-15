@@ -14,6 +14,9 @@ SECRET=your_binance_secret_key
 PERCENTILE=90%%
 #COMMENTED=42
 ```
-## Trade
+
+**Trade**
 
 Run calculate.py
+
+For pretty pictures run pictures.py
