@@ -10,7 +10,7 @@ Create settings.ini
 DEBUG=True
 TEMPLATE_DEBUG=%(DEBUG)s
 API_KEY=your_binance_api_key
-SECRET_KEY=your_binance_secret_key
+SECRET=your_binance_secret_key
 PERCENTILE=90%%
 #COMMENTED=42
 ```
