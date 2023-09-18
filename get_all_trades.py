@@ -18,4 +18,3 @@ def get_trades():
     print(f"These coins are included: {symbols} \n If you want other coins to be included add them to symbols list in get_trades()" )
     return all_trades
 
-get_trades()
